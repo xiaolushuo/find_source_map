@@ -2,8 +2,6 @@
 Descripttion: 
 version: 
 Author: 1314mylove
-Date: 2021-08-23 16:09:29
-LastEditors: 1314mylove
 LastEditTime: 2021-09-14 20:28:10
 '''
 from sys import argv
